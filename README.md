@@ -30,6 +30,8 @@ The Enrollment Api provides below set of operations to enable the Enrollment pro
 # Postman
 Sample requests for all the API operations are added to the below Postman project
 
+https://github.com/dhinuselva/health-care-system/blob/main/postman/HealthCare-Enrollment.postman_collection.json
+
 # Swagger API Documentation
 Use the url - http://localhost:9090/swagger-ui/ to get the Swagger API documentation page
 
