@@ -33,6 +33,8 @@ Sample requests for all the API operations are added to the below Postman projec
 # Swagger API Documentation
 Use the url - http://localhost:9090/swagger-ui/ to get the Swagger API documentation page
 
+![Alt text](/screenshots/swagger.png?raw=true "Swagger")
+
 Use the url - http://localhost:9090/v2/api-docs to get the Swagger API documentation in JSON format
 
 # Health Check

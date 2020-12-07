@@ -1,0 +1,143 @@
+{
+	"info": {
+		"_postman_id": "114a37b5-638e-4e34-bb78-a0f4629b463d",
+		"name": "HealthCare-Enrollment",
+		"description": "Enrollment Api for Health Care System",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "getEnrolleeById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Retrieve Enrollee details using EnrolleeId"
+			},
+			"response": []
+		},
+		{
+			"name": "getEnrolleeByName",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Retrieve Enrollee details using Enrollee Name"
+			},
+			"response": []
+		},
+		{
+			"name": "getAllEnrollees",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Retrieve all the Enrollees stored in the Health Care System"
+			},
+			"response": []
+		},
+		{
+			"name": "addEnrollee",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Add a new Enrollee to the Health Care System"
+			},
+			"response": []
+		},
+		{
+			"name": "updateEnrollee",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Update Enrollee details to the Health Care System"
+			},
+			"response": []
+		},
+		{
+			"name": "deleteEnrollee",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Delete an Enrollee from the Health Care System using the Enrollee Id"
+			},
+			"response": []
+		},
+		{
+			"name": "getDependentById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Retrieve Dependent details using DependentId"
+			},
+			"response": []
+		},
+		{
+			"name": "getDependentByEnrolleeId",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Retrieve Dependent details using EnrolleeId"
+			},
+			"response": []
+		},
+		{
+			"name": "addDependent",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Add a new Dependent under an Enrollee"
+			},
+			"response": []
+		},
+		{
+			"name": "updateDependent",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Update dependent details under an Enrollee"
+			},
+			"response": []
+		},
+		{
+			"name": "deleteDependent",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Delete dependent under an Enrollee using the dependentId"
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
